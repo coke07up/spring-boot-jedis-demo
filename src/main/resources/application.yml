@@ -1,0 +1,8 @@
+spring:
+  redis:
+    client-name: spring-boot-demo
+    database: 0
+    host: 10.88.27.129
+    port: 6379
+    password: cokes@!^007
+    timeout: 2000
